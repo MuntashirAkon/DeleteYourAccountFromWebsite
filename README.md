@@ -22,10 +22,13 @@
 - [last.fm](https://www.last.fm): Deleted within 14 days, available at the bottom of **Settings** > **Account**. They probably just archive the account instead of deleting it (best not to use this site at all). From their **Account** page:
   > Deletion of your account will take 14 days to complete. After this time, your account will be either deleted, anonymised or put beyond use and cannot be recovered. Please note that once your account is deleted you will not be able to register a new account with your existing username.
 - [lightoj.com](http://www.lightoj.com): No option to delete, no option to change email or name (better to use fake info)
-- [medium.com](https://medium.com): Deleted immediately, avialable at the bottom of **Settings** page
+- [medium.com](https://medium.com): Deleted immediately, available at the bottom of **Settings** page
+- [myspace.com](https://myspace.com): Deleted immediately, available at **Settings** > **Account** > **Delete Account**
+- [pinterest.com](https://www.pinterest.com): Deleted within 14 days, available at the bottom of **Edit Settings** > **Account Settings**. An email will be sent to your email address for final confirmation.
 - [quora.com](https://quora.com): Deleted within 14 days, available in **Privacy Settings** ([See here](https://www.quora.com/How-do-I-delete-my-Quora-account/answer/Quora-Official-Account))
 - [twoo.com](https://www.twoo.com): Deleted within 3 months, available in **Settings**
 - [viber.com](https://www.viber.com): No option to delete account, email can be changed but mobile no. can't
 - [vpnjantit.com](http://vpnjantit.com): No option to delete account or change email
+- [webnode.com](http://webnode.com): No option to delete account, use fake email, name, etc.
 - [webs.com](http://webs.com): You have to delete all the sites first, then there will a option for deleting the account immediately
 - [zenmate.com](http://zenmate.com): There's an option but it doesn't seem to work, setting email doesn't work either
