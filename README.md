@@ -8,11 +8,18 @@ Please user browser's find option (usually `ctl` + `f` or `cmd` + `f`) to find t
 - [couchsurfing.com](https://www.couchsurfing.com): You have to ask them to delete your account permanently. ([See here](https://support.couchsurfing.org/hc/en-us/articles/200640880-How-can-I-Hide-or-Delete-my-profile-))
 - [cracked.to](https://cracked.to): No option to delete account. You can set fake email id if you badly need
 - [fmovies.to](https://fmovies.to): No option to delete, use fake username, email, etc.
+- [foursquare.com](https://foursquare.com): There's an option, but it doesn't seem to work. It'll fail with the following message:
+  > The server cannot be contacted at this time
 - [goodreads.com](https://www.goodreads.com): Deleted within a few minutes, available at the bottom of **Account Settings** > **Settings**
 - [grammarly.com](https://account.grammarly.com): Deleted immediately, available at the bottom of **Account Settings**
 - [ifttt.com](https://ifttt.com): Deleted immediately, available at the bottom of **Account** settings
-- [lightoj.com](http://www.lightoj.com): No option to delete, no option to change email or name
+- [last.fm](https://www.last.fm): Deleted within 14 days, available at the bottom of **Settings** > **Account**. They probably just archive the account instead of deleting it (best not to use this site at all). From their **Account** page:
+  > Deletion of your account will take 14 days to complete. After this time, your account will be either deleted, anonymised or put beyond use and cannot be recovered. Please note that once your account is deleted you will not be able to register a new account with your existing username.
+- [lightoj.com](http://www.lightoj.com): No option to delete, no option to change email or name (better to use fake info)
+- [medium.com](https://medium.com): Deleted immediately, avialable at the bottom of **Settings** page
 - [quora.com](https://quora.com): Deleted within 14 days, available in **Privacy Settings** ([See here](https://www.quora.com/How-do-I-delete-my-Quora-account/answer/Quora-Official-Account))
+- [twoo.com](https://www.twoo.com): Deleted within 3 months, available in **Settings**
 - [viber.com](https://www.viber.com): No option to delete account, email can be changed but mobile no. can't
 - [vpnjantit.com](http://vpnjantit.com): No option to delete account or change email
+- [webs.com](http://webs.com): You have to delete all the sites first, then there will a option for deleting the account immediately
 - [zenmate.com](http://zenmate.com): There's an option but it doesn't seem to work, setting email doesn't work either
