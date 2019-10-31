@@ -28,6 +28,7 @@
 - [quora.com](https://quora.com): Deleted within 14 days, available in **Privacy Settings** ([See here](https://www.quora.com/How-do-I-delete-my-Quora-account/answer/Quora-Official-Account))
 - [twoo.com](https://www.twoo.com): Deleted within 3 months, available in **Settings**
 - [viber.com](https://www.viber.com): No option to delete account, email can be changed but mobile no. can't
+- [vk.com](https://vk.com): Deleted within 7 months, available at the bottom of **Settings** > **General**
 - [vpnjantit.com](http://vpnjantit.com): No option to delete account or change email
 - [webnode.com](http://webnode.com): No option to delete account, use fake email, name, etc.
 - [webs.com](http://webs.com): You have to delete all the sites first, then there will a option for deleting the account immediately
