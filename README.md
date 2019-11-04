@@ -23,6 +23,7 @@
   > Deletion of your account will take 14 days to complete. After this time, your account will be either deleted, anonymised or put beyond use and cannot be recovered. Please note that once your account is deleted you will not be able to register a new account with your existing username.
 - [lightoj.com](http://www.lightoj.com): No option to delete, no option to change email or name (better to use fake info)
 - [medium.com](https://medium.com): Deleted immediately, available at the bottom of **Settings** page
+- [myfitnesspal.com](https://www.myfitnesspal.com): Deleted immediately, available at **Settings** > **Delete Account**
 - [myspace.com](https://myspace.com): Deleted immediately, available at **Settings** > **Account** > **Delete Account**
 - [onlinejudge.org](https://onlinejudge.org): No option to delete, use fake name, id, email, etc.
 - [pinterest.com](https://www.pinterest.com): Deleted within 14 days, available at the bottom of **Edit Settings** > **Account Settings**. An email will be sent to your email address for final confirmation.
