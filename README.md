@@ -25,6 +25,8 @@
 - [myspace.com](https://myspace.com): Deleted immediately, available at **Settings** > **Account** > **Delete Account**
 - [pinterest.com](https://www.pinterest.com): Deleted within 14 days, available at the bottom of **Edit Settings** > **Account Settings**. An email will be sent to your email address for final confirmation.
 - [quora.com](https://quora.com): Deleted within 14 days, available in **Privacy Settings** ([See here](https://www.quora.com/How-do-I-delete-my-Quora-account/answer/Quora-Official-Account))
+- [shtyle.fm](http://shtyle.fm): Deleted immediately, available at **Account Settings**
+- [spreaker.com](https://www.spreaker.com): Deleted within 30 days, available at **Settings** > **Delete Account**
 - [twoo.com](https://www.twoo.com): Deleted within 3 months, available in **Settings**
 - [viber.com](https://www.viber.com): No option to delete account, email can be changed but mobile no. can't
 - [vk.com](https://vk.com): Deleted within 7 months, available at the bottom of **Settings** > **General**
