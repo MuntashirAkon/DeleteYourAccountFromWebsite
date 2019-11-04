@@ -6,6 +6,7 @@
 - [4shared.com](https://www.4shared.com): Deleted within 30 days
 - [apkpure.com](https://apkpure.com): Deleted within 48 hours, available in **Privacy Settings**
 - [apester.com](https://apester.com): No option to delete, use fake username and email
+- [ask.fm](https://ask.fm): No option to delete, only deactivate. Use fake name, email, etc. and then deactivate account
 - [bookcrossing.com](https://www.bookcrossing.com): No option to delete account. Use fake email, name, etc.
 - [caretutors.com](https://caretutors.com): No option to delete account or change email. Use fake info if you badly need
 - [codecademy.com](https://www.codecademy.com): Deleted immediately, available at **Account Settings** > **Delete Account**
@@ -23,6 +24,7 @@
 - [lightoj.com](http://www.lightoj.com): No option to delete, no option to change email or name (better to use fake info)
 - [medium.com](https://medium.com): Deleted immediately, available at the bottom of **Settings** page
 - [myspace.com](https://myspace.com): Deleted immediately, available at **Settings** > **Account** > **Delete Account**
+- [onlinejudge.org](https://onlinejudge.org): No option to delete, use fake name, id, email, etc.
 - [pinterest.com](https://www.pinterest.com): Deleted within 14 days, available at the bottom of **Edit Settings** > **Account Settings**. An email will be sent to your email address for final confirmation.
 - [quora.com](https://quora.com): Deleted within 14 days, available in **Privacy Settings** ([See here](https://www.quora.com/How-do-I-delete-my-Quora-account/answer/Quora-Official-Account))
 - [shtyle.fm](http://shtyle.fm): Deleted immediately, available at **Account Settings**
