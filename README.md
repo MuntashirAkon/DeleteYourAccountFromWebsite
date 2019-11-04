@@ -13,8 +13,7 @@
 - [cracked.to](https://cracked.to): No option to delete account. You can set fake email id if you badly need
 - [espn.com](https://www.espn.com): Deleted within 14 days (Disney, ABC, Star Wars, Marvel, Freedom, etc. as well), available at the bottom of **ESPN Profile**
 - [fmovies.to](https://fmovies.to): No option to delete, use fake username, email, etc.
-- [foursquare.com](https://foursquare.com): There's an option, but it doesn't seem to work. It'll fail with the following message:
-  > The server cannot be contacted at this time
+- [foursquare.com](https://foursquare.com): Deleted immediately, available [here](https://foursquare.com/delete_me)
 - [goodreads.com](https://www.goodreads.com): Deleted within a few minutes, available at the bottom of **Account Settings** > **Settings**
 - [grammarly.com](https://account.grammarly.com): Deleted immediately, available at the bottom of **Account Settings**
 - [ifttt.com](https://ifttt.com): Deleted immediately, available at the bottom of **Account** settings
