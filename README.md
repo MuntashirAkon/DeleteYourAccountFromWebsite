@@ -4,6 +4,7 @@
 
 - [000webhost.com](https://www.000webhost.com): Deleted immediately, available at the bottom of **Account Settings**
 - [4shared.com](https://www.4shared.com): Deleted within 30 days
+- [8tracks.com](https://8tracks.com): Deleted immediately, available at **Settings** > **Account**
 - [apkpure.com](https://apkpure.com): Deleted within 48 hours, available in **Privacy Settings**
 - [apester.com](https://apester.com): No option to delete, use fake username and email
 - [ask.fm](https://ask.fm): No option to delete, only deactivate. Use fake name, email, etc. and then deactivate account
@@ -34,6 +35,7 @@
 - [viber.com](https://www.viber.com): No option to delete account, email can be changed but mobile no. can't
 - [vk.com](https://vk.com): Deleted within 7 months, available at the bottom of **Settings** > **General**
 - [vpnjantit.com](http://vpnjantit.com): No option to delete account or change email
+- [wattpad.com](https://www.wattpad.com): There's a close account option but it just deactivates the account. Use fake name, email, username, etc. (most typical temporary mail services don't work, try one by one and also it takes long long time for email to arrive)
 - [webnode.com](http://webnode.com): No option to delete account, use fake email, name, etc.
 - [webs.com](http://webs.com): You have to delete all the sites first, then there will a option for deleting the account immediately
 - [zenmate.com](http://zenmate.com): There's an option but it doesn't seem to work, setting email doesn't work either
