@@ -19,10 +19,12 @@
 - [goodreads.com](https://www.goodreads.com): Deleted within a few minutes, available at the bottom of **Account Settings** > **Settings**
 - [grammarly.com](https://account.grammarly.com): Deleted immediately, available at the bottom of **Account Settings**
 - [ifttt.com](https://ifttt.com): Deleted immediately, available at the bottom of **Account** settings
+- [instagram.com](https://www.instagram.com): Deleted immediately, available [here](https://www.instagram.com/accounts/remove/request/permanent/) (Account is not completely removed as far as it is understood)
 - [iwebchk.com](https://iwebchk.com): No option to delete password, use fake email, name, etc.
 - [last.fm](https://www.last.fm): Deleted within 14 days, available at the bottom of **Settings** > **Account**. They probably just archive the account instead of deleting it (best not to use this site at all). From their **Account** page:
   > Deletion of your account will take 14 days to complete. After this time, your account will be either deleted, anonymised or put beyond use and cannot be recovered. Please note that once your account is deleted you will not be able to register a new account with your existing username.
 - [lightoj.com](http://www.lightoj.com): No option to delete, no option to change email or name (better to use fake info)
+- [mediafire.com](https://www.mediafire.com): Deleted immediately, available at the top of account settings
 - [medium.com](https://medium.com): Deleted immediately, available at the bottom of **Settings** page
 - [myfitnesspal.com](https://www.myfitnesspal.com): Deleted immediately, available at **Settings** > **Delete Account**
 - [myspace.com](https://myspace.com): Deleted immediately, available at **Settings** > **Account** > **Delete Account**
