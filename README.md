@@ -33,6 +33,8 @@
 - [quora.com](https://quora.com): Deleted within 14 days, available in **Privacy Settings** ([See here](https://www.quora.com/How-do-I-delete-my-Quora-account/answer/Quora-Official-Account))
 - [shtyle.fm](http://shtyle.fm): Deleted immediately, available at **Account Settings**
 - [spreaker.com](https://www.spreaker.com): Deleted within 30 days, available at **Settings** > **Delete Account**
+- [timehop.com](https://www.timehop.com): Deleted immediately, to delete open Timehop app, goto Settings (on top) and swipe to the bottom
+- [tumblr.com](https://www.tumblr.com): Deleted immediately, available at the bottom of **Settings**
 - [twoo.com](https://www.twoo.com): Deleted within 3 months, available in **Settings**
 - [viber.com](https://www.viber.com): No option to delete account, email can be changed but mobile no. can't
 - [vk.com](https://vk.com): Deleted within 7 months, available at the bottom of **Settings** > **General**
