@@ -33,6 +33,7 @@
 - [myspace.com](https://myspace.com): Deleted immediately, available at **Settings** > **Account** > **Delete Account**
 - [onlinejudge.org](https://onlinejudge.org): No option to delete, use fake name, id, email, etc.
 - [pinterest.com](https://www.pinterest.com): Deleted within 14 days, available at the bottom of **Edit Settings** > **Account Settings**. An email will be sent to your email address for final confirmation.
+- [Pastebin.com](https://pastebin.com/login): Deleted immediately. [Here](https://pastebin.com/user/delete-account)
 - [quora.com](https://quora.com): Deleted within 14 days, available in **Privacy Settings** ([See here](https://www.quora.com/How-do-I-delete-my-Quora-account/answer/Quora-Official-Account))
 - [shtyle.fm](http://shtyle.fm): Deleted immediately, available at **Account Settings**
 - [SoundClous](https://soundcloud.com): Deleted immediately.
