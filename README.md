@@ -36,7 +36,7 @@
 - [Pastebin.com](https://pastebin.com/login): Deleted immediately. [Here](https://pastebin.com/user/delete-account)
 - [quora.com](https://quora.com): Deleted within 14 days, available in **Privacy Settings** ([See here](https://www.quora.com/How-do-I-delete-my-Quora-account/answer/Quora-Official-Account))
 - [shtyle.fm](http://shtyle.fm): Deleted immediately, available at **Account Settings**
-- [SoundClous](https://soundcloud.com): Deleted immediately.
+- [SoundCloud](https://soundcloud.com): Deleted immediately.
 - [spreaker.com](https://www.spreaker.com): Deleted within 30 days, available at **Settings** > **Delete Account**
 - [timehop.com](https://www.timehop.com): Deleted immediately, to delete open Timehop app, goto Settings (on top) and swipe to the bottom
 - [tumblr.com](https://www.tumblr.com): Deleted immediately, available at the bottom of **Settings**
