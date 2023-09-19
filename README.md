@@ -8,6 +8,8 @@
 - [apkpure.com](https://apkpure.com): Deleted within 48 hours, available in **Privacy Settings**
 - [apester.com](https://apester.com): No option to delete, use fake username and email
 - [ask.fm](https://ask.fm): No option to delete, only deactivate. Use fake name, email, etc. and then deactivate account
+- [AtCoder](https://atcoder.jp/): Deleted immediately.
+- [beecrowd](https://www.beecrowd.com.br/): Deleted immediately.
 - [bookcrossing.com](https://www.bookcrossing.com): No option to delete account. Use fake email, name, etc.
 - [caretutors.com](https://caretutors.com): No option to delete account or change email. Use fake info if you badly need
 - [codecademy.com](https://www.codecademy.com): Deleted immediately, available at **Account Settings** > **Delete Account**
@@ -17,6 +19,7 @@
 - [fmovies.to](https://fmovies.to): No option to delete, use fake username, email, etc.
 - [foursquare.com](https://foursquare.com): Deleted immediately, available [here](https://foursquare.com/delete_me)
 - [goodreads.com](https://www.goodreads.com): Deleted within a few minutes, available at the bottom of **Account Settings** > **Settings**
+- [HackerRank] (https://www.hackerrank.com/auth/login): Deleted immediately.
 - [grammarly.com](https://account.grammarly.com): Deleted immediately, available at the bottom of **Account Settings**
 - [ifttt.com](https://ifttt.com): Deleted immediately, available at the bottom of **Account** settings
 - [instagram.com](https://www.instagram.com): Deleted immediately, available [here](https://www.instagram.com/accounts/remove/request/permanent/) (Account is not completely removed as far as it is understood)
@@ -30,8 +33,10 @@
 - [myspace.com](https://myspace.com): Deleted immediately, available at **Settings** > **Account** > **Delete Account**
 - [onlinejudge.org](https://onlinejudge.org): No option to delete, use fake name, id, email, etc.
 - [pinterest.com](https://www.pinterest.com): Deleted within 14 days, available at the bottom of **Edit Settings** > **Account Settings**. An email will be sent to your email address for final confirmation.
+- [Pastebin.com](https://pastebin.com/login): Deleted immediately. [Here](https://pastebin.com/user/delete-account)
 - [quora.com](https://quora.com): Deleted within 14 days, available in **Privacy Settings** ([See here](https://www.quora.com/How-do-I-delete-my-Quora-account/answer/Quora-Official-Account))
 - [shtyle.fm](http://shtyle.fm): Deleted immediately, available at **Account Settings**
+- [SoundCloud](https://soundcloud.com): Deleted immediately.
 - [spreaker.com](https://www.spreaker.com): Deleted within 30 days, available at **Settings** > **Delete Account**
 - [timehop.com](https://www.timehop.com): Deleted immediately, to delete open Timehop app, goto Settings (on top) and swipe to the bottom
 - [tumblr.com](https://www.tumblr.com): Deleted immediately, available at the bottom of **Settings**
