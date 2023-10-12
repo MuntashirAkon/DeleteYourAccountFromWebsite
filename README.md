@@ -1,3 +1,7 @@
+### For more sites list visit: https://justdeleteme.xyz/
+
+---
+
 *NOTE: Please user browser's find option (usually `ctl` + `f` or `cmd` + `f`) to find the domain you need.*
 
 *NOTE 2: Websites are listed alphabetically.*
